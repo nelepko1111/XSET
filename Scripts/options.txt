@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\melki\OneDrive\ƒокументы\VuGen\Scripts\27.12.22
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\melki\onedrive\документы\vugen\scripts\27.12.22\\logfile.log
+c:\users\melki\onedrive\документы\vugen\scripts\27.12.22\\combined_27.12.22.c
+c:\users\melki\onedrive\документы\vugen\scripts\27.12.22\\pre_cci.c
